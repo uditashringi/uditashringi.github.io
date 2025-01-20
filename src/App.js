@@ -19,6 +19,16 @@ const App = () => {
               "warp threads( vertical ) that form the base and weft threads( horizontal ) that are woven through the warp to create designs or scenes.",
       link: "/pdfs/tapestry.pdf"
     },
+    {
+      name: "Tarzan",
+      description: "TARZAN is an innovative wearable device that redefines the interaction with AI, offering a discreet yet powerful way to stay connected and in control. * Much like Meta's AI-enabled glasses, the Tarzan can scan the world with its wide-angle camera to process and react to what you see.",
+      link: "/pdfs/tarzan.pdf"
+    },
+    {
+      name: "Fashion Porfolio",
+      description: " \"OctoBloom\" combines the essence of an octopus (\"Octo\") with the idea of blooming, symbolizing growth, renewal, and regeneration. It reflects the concept of transformation and vibrancy, inspired by the octopus’s ability to adapt and regenerate, paired with the freshness of blooming life.",
+      link: "/pdfs/portfolio.pdf"
+    },
   ];
 
   return (
@@ -73,6 +83,12 @@ const App = () => {
     </div>
   );
 };
+
+// function App() {
+//   console.log('App is rendering!');
+//   return <div>Hello, World!</div>;
+// }
+
 
 export default App;
 
