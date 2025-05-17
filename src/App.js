@@ -29,6 +29,11 @@ const App = () => {
       description: " \"OctoBloom\" combines the essence of an octopus (\"Octo\") with the idea of blooming, symbolizing growth, renewal, and regeneration. It reflects the concept of transformation and vibrancy, inspired by the octopus’s ability to adapt and regenerate, paired with the freshness of blooming life.",
       link: "/pdfs/portfolio.pdf"
     },
+    {
+      name: "Rebranding Marks & Spencer",
+      description: "This project rebrands Marks & Spencer to make it more modern and appealing to younger audiences. While the brand is known for quality and trust, it's seen as outdated. Key issues include poor fabric, bad fitting, and weak digital presence. The strategy includes improving product quality by shifting manufacturing to India, launching a new basics collection, updating branding, and boosting social media presence through influencer collaborations and trendy content. The goal is to make M&S stylish, sustainable, and relevant for today’s market.",
+      link: "/pdfs/markNSpencer.pdf"
+    },
   ];
 
   return (
